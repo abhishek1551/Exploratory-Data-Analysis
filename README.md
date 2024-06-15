@@ -1,1 +1,1 @@
-This repo is for EDA's.
+This repo contains EDA's and ML stuff.
