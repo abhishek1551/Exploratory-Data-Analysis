@@ -1,6 +1,7 @@
+# Laptop EDA
 
+## Overview:
 
-Overview
 This project aims to predict laptop prices based on various features using machine learning models. It involves data cleaning,
 preprocessing, exploratory data analysis (EDA), model training, evaluation, and comparison to identify the best model for predicting laptop prices.
 The dataset used contains information about different laptop models, including their brand, specifications, and pricing details.
